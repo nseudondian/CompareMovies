@@ -1,1 +1,1 @@
-web:node comparemovies/index.js
+web:node CompareMovies/index.js

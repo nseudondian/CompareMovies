@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "comparemovies/index.js"
+    "start": "CompareMovies/index.js"
   },
   "author": "",
   "license": "ISC"
