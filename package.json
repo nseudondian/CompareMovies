@@ -6,6 +6,12 @@
   "scripts": {
     "start": "./index.html"
   },
+  "headers":{
+    "/**":{
+      "Access_Control_Allow_origin" : "*"
+    }
+  },
   "author": "",
   "license": "ISC"
 }
+
