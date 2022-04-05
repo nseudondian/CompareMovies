@@ -1,6 +1,9 @@
 {
   "name": "comparemovies",
   "version": "1.0.0",
+  "engines": {
+    "node": "17.x"
+  },
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -15,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/nseudondian/comparemovies/issues"
   },
-  "homepage": "https://github.com/nseudondian/comparemovies#readme"
+  "homepage": "https://github.com/nseudondian/comparemovies#readme",
+  "devDependencies": {
+    "webpack": "^5.71.0",
+    "webpack-cli": "^4.9.2"
+  }
 }
